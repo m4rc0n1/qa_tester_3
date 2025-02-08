@@ -136,7 +136,9 @@ public class Java_Basics {
 //        }
 //        System.out.println(Arrays.deepToString(matrix));
         //Tapshiriq matrix arrayle etdiyimizi for each le edin
-
+//        int a =15;
+//        int b = 4;
+//        System.out.println(a*b>100 ? "ela" : a*b>70?"orta" : a*b>50 ? "pis" : "belli olmayan netice");
 
   }
 }
